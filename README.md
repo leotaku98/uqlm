@@ -54,6 +54,8 @@ The latest version can be installed from PyPI:
 pip install uqlm
 ```
 
+## my version
+
 ## Hallucination Detection
 UQLM provides a suite of response-level scorers for quantifying the uncertainty of Large Language Model (LLM) outputs. Each scorer returns a confidence score between 0 and 1, where higher scores indicate a lower likelihood of errors or hallucinations.  We categorize these scorers into different types:
 
